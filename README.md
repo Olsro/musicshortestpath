@@ -54,7 +54,9 @@ If everything went great, the file structure in the destination folder should lo
 ![Alt text](images/dest_folder_structure.jpeg?raw=true "Destination Folder Structure")
 ## The configuration file
 ```SRC_FOLDER_PATH``` is the path to the source path. The program will scan all music files.
+
 ```DST_FOLDER_PATH``` is the path of the destination path. If the path don't exist, the program will be clever enough to create it automatically.
+
 ```ACTION``` can be ```move``` or ```copy```. Use copy if you wanna see the program in action without modifying your source path. I recommend though running this program directly on your iPod with the action "move".
 
 ## Support my work
