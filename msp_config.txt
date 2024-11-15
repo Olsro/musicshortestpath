@@ -1,0 +1,3 @@
+SRC_FOLDER_PATH=Music_src
+DST_FOLDER_PATH=Music_dest
+ACTION=move
